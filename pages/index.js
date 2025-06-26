@@ -257,6 +257,10 @@ export default function Home() {
                    I remember when I first got interest in UI/UX design (way before I had interest in coding), I found this <a style={{textDecoration: "underline"}} href="https://www.dailyui.co/">DailyUI challenge</a>. It actually helped me a lot in learning how to make UI design. It had all these components, it was measuarble that I was continuing my habit, I got a good feedback loop when I posted my designs on Dribbble and discord servers and people interacted with it, I learned from more experienced designers that pointed out  the flaws in my designs, and I was every day making a new type of interface that I hadn't made before. By the end of the 100 days, I was a UI/UX designer!
            </p>
            </div>
+           <Divider />
+
+          <p style={{ fontSize: "18px", lineHeight: "1.6", marginBottom: "8px", color: "#000" }}>Thomas Stubblefield</p>
+          <p style={{ fontSize: "18px", lineHeight: "1.6", marginBottom: "8px", color: "#000" }}>~in life we are always learning</p>
           </div>
         </main>
       </>
