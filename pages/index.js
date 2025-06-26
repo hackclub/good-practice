@@ -55,6 +55,11 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
         <style>{`
+          html, body {
+            background-color: #FFFDF7;
+            color: #000;
+          }
+          
           @keyframes rotate {
             from { transform: rotate(0deg); }
             to { transform: rotate(360deg); }
